@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bảng Xếp Hạng Điểm Cao Nhất</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f8f8f8;
+        }
+
+        .btn-back {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: #d9534f;
+            color: white;
+            border-radius: 5px;
+            text-decoration: none;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Bảng Xếp Hạng Điểm Cao Nhất</h2>
+        <a href="dashboard.php" class="btn-back">Quay lại Bảng điều khiển</a>
+        <table>
+            <thead>
+                <tr>
+                    <th>STT</th>
+                    <th>ID</th>
+                    <th>Tên nhân vật</th>
+                    <th>Điểm số</th>
+                </tr>
+            </thead>
+            <tbody id="highScores">
+                <!-- Dữ liệu sẽ được chèn vào đây -->
+            </tbody>
+        </table>
+    </div>
+    <script>
+        fetch('get_high_scores.php')
+            .then(response => response.json())
+            .then(data => {
+                const highScoresTable = document.getElementById('highScores');
+                data.forEach((character, index) => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${index + 1}</td>
+                        <td>${character.id}</td>
+                        <td>${character.display_name}</td>
+                        <td>${character.diem}</td>
+                    `;
+                    highScoresTable.appendChild(row);
+                });
+            })
+            .catch(error => console.error('Error fetching high scores:', error));
+    </script>
+</body>
+</html>

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\GameDoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|d:\\unity\\gamedoan\\assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|D:\\Unity\\GameDoAn\\assets\\scripts\\login\\usernamechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login\\usernamechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|D:\\Unity\\GameDoAn\\assets\\scripts\\login\\userinfofetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login\\userinfofetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|D:\\Unity\\GameDoAn\\assets\\scripts\\login\\exampleusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login\\exampleusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|D:\\Unity\\GameDoAn\\assets\\scripts\\login\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|D:\\Unity\\GameDoAn\\assets\\scripts\\login\\registerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login\\registerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|D:\\Unity\\GameDoAn\\assets\\scripts\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|D:\\Unity\\GameDoAn\\assets\\scripts\\login\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24DED6F-389A-7A71-EB3E-C41D0EC39A8C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuizManager.cs",
+              "ToolTip": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\QuizManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuizManager.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwHcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:47:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsernameChecker.cs",
+              "DocumentMoniker": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\UsernameChecker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login\\UsernameChecker.cs",
+              "ToolTip": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\UsernameChecker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login\\UsernameChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:13:01.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExampleUsage.cs",
+              "DocumentMoniker": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\ExampleUsage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login\\ExampleUsage.cs",
+              "ToolTip": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\ExampleUsage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login\\ExampleUsage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:31:03.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInfoFetcher.cs",
+              "DocumentMoniker": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\UserInfoFetcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login\\UserInfoFetcher.cs",
+              "ToolTip": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\UserInfoFetcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login\\UserInfoFetcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:30:07.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUI.cs",
+              "DocumentMoniker": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\RegisterUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login\\RegisterUI.cs",
+              "ToolTip": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\RegisterUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login\\RegisterUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:25:30.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\Register.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login\\Register.cs",
+              "ToolTip": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\Register.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:25:29.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login\\Login.cs",
+              "ToolTip": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\Login.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:22:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginUi.cs",
+              "DocumentMoniker": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\LoginUi.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login\\LoginUi.cs",
+              "ToolTip": "D:\\Unity\\GameDoAn\\Assets\\Scripts\\Login\\LoginUi.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login\\LoginUi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:24:29.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
